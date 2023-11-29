@@ -13,4 +13,8 @@ FSM
 A schematic drawing of my circuit
 ![image description](./2.jpg)
 
+Photo of my circuit
+![image description](./3.png)
+
+
 For me, two aspects posed a challenge. The first one is how to sensibly arrange them all on the breadboard. The board itself is not wide, and there are numerous components requiring connection to the 3V3 socket, negative terminal, and ground. Many wires intertwine, making it easy to misconnect or become entangled, making it challenging to differentiate the sockets. The second challenge is ensuring that each component of every part operates successfully together. Each part is not difficult to code separately, but when combined, especially with numerous prerequisites, errors can easily occur during code writing. These errors are often not easily detected and can visually create some confusion. Nevertheless, I am excited about the final outcome and successfully brought my conceptualized password lock to fruition.
